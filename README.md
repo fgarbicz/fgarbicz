@@ -24,16 +24,15 @@ Current programs:
 
 ## 🛠️ Methods & Tools
 
-```
-Molecular & Cellular          In Vivo & Translational       Computational
-─────────────────────         ────────────────────────       ─────────────────
-RNA-seq / scRNA-seq           Genetically engineered         R · Python
-CyTOF / CITE-seq              mouse models (GEMM)            Bioinformatics pipelines
-Flow cytometry                Xenograft models               Multi-omic integration
-CRISPR gene editing           Preclinical drug studies       Statistical modeling
-Tissue biomarker assays       Clinical trial design          Cancer genomics (Broad)
-RNA nanoparticles (MIT)       IHC / histopathology
-```
+### 🧬 Basic Science 🏥 Clinical & Translational
+| Translational Research | Molecular & Cellular | In Vivo Modeling | Computational |
+|---|---|---|---|
+| Preclinical drug efficacy studies | RNA-seq / scRNA-seq | Genetically engineered mouse models (GEMM) | R · Python | 
+| Clinical trial rationale & design | CyTOF / CITE-seq | Xenograft models | Bioinformatics pipelines |
+| Biomarker development for companion diagnostics | Flow cytometry & cell sorting | Conditional knockout / knock-in systems | Multi-omic data integration |
+| Industry collaboration (Menarini / Dialectic Therapeutics) | CRISPR-based gene editing | Histopathology & IHC | Statistical modeling |
+| Multi-institutional program leadership (DFCI · HMS · MIT · Broad) | Molecular cloning | Primary BM cell culture | Cancer genomics (Broad Institute) |
+| Leadership and mentoring | RNA nanoparticle design (MIT) | Tissue biomarker assay development | |
 
 ---
 
