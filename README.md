@@ -14,7 +14,7 @@ Postdoctoral Research Fellow @ [Dana-Farber Cancer Institute](https://www.dana-f
 I develop **precision therapeutics and preclinical disease-modeling platforms** for hematologic malignancies and solid tumors, with the goal of translating fundamental cancer biology into clinical trials that improve outcomes for patients with currently incurable cancers.
 
 Current programs:
-- **Waldenström's macroglobulinemia** — building the first generation of *MYD88 L265P* / 6q-deletion mouse models to map early lymphomagenesis and identify a cell of origin *(IWMF Robert A. Kyle Career Development Award)*
+- **Waldenström's macroglobulinemia** — building the first generation of *MYD88 L265P* / 6q-deletion mouse models to map early lymphomagenesis events and dependencies *(IWMF Robert A. Kyle Career Development Award)*
 - **PIM kinase biology in DLBCL & multiple myeloma** — mechanistic work that directly enabled Phase II trial [NCT06534437](https://clinicaltrials.gov/study/NCT06534437) (dapolsertib + glofitamab in r/r aggressive B-cell NHL)
 - **BCL-XL apoptotic dependencies** — preclinical rationale for Phase Ib trial [NCT06964009](https://clinicaltrials.gov/study/NCT06964009) (DT2216 + paclitaxel in platinum-resistant ovarian cancer) *(Dana-Farber-sponsored)*
 - **RNA nanoparticle therapeutics** — collaboration with the Langer Lab (MIT)
@@ -31,8 +31,8 @@ Current programs:
 | Clinical trial rationale & design | CyTOF / CITE-seq | Xenograft models | Bioinformatics pipelines |
 | Biomarker development for companion diagnostics | Flow cytometry & cell sorting | Conditional knockout / knock-in systems | Multi-omic data integration |
 | Industry collaboration (Menarini / Dialectic Therapeutics) | CRISPR-based gene editing | Histopathology & IHC | Statistical modeling |
-| Multi-institutional program leadership (DFCI · HMS · MIT · Broad) | Molecular cloning | Primary BM cell culture | Cancer genomics (Broad Institute) |
-| Leadership and mentoring | RNA nanoparticle design (MIT) | Tissue biomarker assay development | |
+| Multi-institutional program leadership (DFCI · HMS · MIT · Broad) | Molecular cloning | Primary BM cell culture | Cancer genomics |
+| Leadership and mentoring | RNA nanoparticle design (MIT) | Tissue biomarker assay development | Molecular diagnostics |
 
 ---
 
