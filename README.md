@@ -32,10 +32,10 @@
 ## 🩺 &nbsp; About Me
 
 ```yaml
-name:         Filip Aleksander Garbicz, MD, PhD
+name:         Filip Garbicz, MD, PhD
 role:         Physician-Scientist — Hematologic Malignancies & Molecular Oncology
 affiliation:  Dana-Farber Cancer Institute · Harvard Medical School · Broad Institute
-clinical:     [MD 2017, Polish Medical License 2019, ACLS, 10-specialty internship]
+clinical:     [MD 2017, Intern 2019, PhD 2026]
 diseases:     [Waldenström macroglobulinemia, DLBCL, multiple myeloma,
                Hodgkin lymphoma, ovarian, liver & gastric cancer]
 approach:     [multi-omic profiling, computational biology, in vivo modeling,
@@ -168,44 +168,6 @@ omics-based cancer data.
 
 <br/>
 
-## 🏆 &nbsp; Honors & Awards
-
-<div align="center">
-
-| Award | Organization | Year |
-| :--- | :--- | :---: |
-| 🖼️ **Poster Award — Pathology Research Retreat** | Harvard Medical School | 2026 |
-| 🥇 **Robert A. Kyle Career Development Award** | International Waldenström's Macroglobulinemia Foundation | 2024 |
-| 🌟 **Young Investigator Award** | International Workshop on Waldenström's Macroglobulinemia | 2024 |
-| 📜 **Abstract Achievement Award** | American Society of Hematology Annual Meeting | 2022 |
-| 🎖️ **Scholarship for Outstanding Young Scientists** | Polish Ministry of Science and Higher Education | 2021 |
-| 💎 **Diamond Grant** *(Principal Investigator)* | Polish Ministry of Science and Higher Education | 2016–19 |
-| 🥇 **1st Award — PhD Session** | 15th Warsaw International Medical Congress | 2019 |
-| 🏅 **Golden Award for Outstanding Scientific Achievements** | MUW Student Scientific Society | 2017 |
-
-<sub>Also: 1st Award, Genetics & Molecular Biology Session, 12th WIMC (2017) · 2nd Award, 27th European Students' Conference, Charité Berlin (2016) · Ministry of Health Scholarship (2016) · Rector's Scholarship for Best Students (2015)</sub>
-
-</div>
-
-<br/>
-
-## 💰 &nbsp; Research Funding
-
-<div align="center">
-
-| Grant | Role | Amount | Years |
-| :--- | :---: | ---: | :---: |
-| **IWMF Robert A. Kyle Career Development Award**<br/><sub>Cancer cell-intrinsic and microenvironmental roles of *MYD88* mutations and 6q deletion in WM</sub> | PI | $150,000 | 2024– |
-| **NIH R01CA273123** (NIH/NCI)<br/><sub>*MYD88* L265P and co-occurring mutations in mature B-cell malignancies</sub> | Postdoctoral Fellow | $2,209,167<br/><sub>(total)</sub> | 2024– |
-| **Diamond Grant** (DI2015 016445), Polish MSHE | PI | $58,824 | 2016–19 |
-| **PRELUDIUM** (2018/31/N/NZ5/03214), Polish NSC | PI | $51,854 | 2019–23 |
-| **ETIUDA** (2020/36/T/NZ5/00610), Polish NSC<br/><sub>Mobility fellowship — research visit to Dana-Farber</sub> | PI | $35,993 | 2020–21 |
-| **ExCELLent Grant**, Polish Stem Cell Bank *(industry)* | Awardee | $27,744 | 2022–24 |
-
-</div>
-
-<br/>
-
 ## 📚 &nbsp; Selected Publications
 
 <div align="center">
@@ -325,46 +287,86 @@ Qin X, Presser A, Johnson L, …, **Garbicz F**, …, Sarosiek KA.
 ![Biomarker](https://img.shields.io/badge/Tissue_Biomarker_Assay_Development-2196F3?style=for-the-badge)
 ![Companion Dx](https://img.shields.io/badge/Companion_Diagnostics-42A5F5?style=for-the-badge)
 
+**🧬 Nucleic Acid & Epigenomic Profiling**
+
+![miRNA](https://img.shields.io/badge/microRNA_/_ncRNA_Profiling-006064?style=for-the-badge)
+![FFPE](https://img.shields.io/badge/FFPE_&_Archival_Tissue_Analysis-00838F?style=for-the-badge)
+![Fusions](https://img.shields.io/badge/Gene_Fusion_Detection-0097A7?style=for-the-badge)
+![Enhancer](https://img.shields.io/badge/Super--Enhancer_Analysis-00ACC1?style=for-the-badge)
+![Epigenomics](https://img.shields.io/badge/Epigenomic_Profiling-00BCD4?style=for-the-badge)
+![Targeted seq](https://img.shields.io/badge/Targeted_Driver--Gene_Sequencing-26C6DA?style=for-the-badge)
+
 **💻 Computational**
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics_Pipelines-4527A0?style=for-the-badge)
-![Multi-omics](https://img.shields.io/badge/Multi--omic_Integration-512DA8?style=for-the-badge)
-![Stats](https://img.shields.io/badge/Statistical_Methods_Development-5E35B1?style=for-the-badge)
-![Genomics](https://img.shields.io/badge/Cancer_Genomics-673AB7?style=for-the-badge)
+![Quarto](https://img.shields.io/badge/Quarto-39729E?style=for-the-badge&logo=quarto&logoColor=white)
+![Seurat](https://img.shields.io/badge/Seurat_·_Harmony_·_LIGER-4527A0?style=for-the-badge)
+![DESeq2](https://img.shields.io/badge/DESeq2-4A2FA8?style=for-the-badge)
+![GSEA](https://img.shields.io/badge/fgsea_·_clusterProfiler_·_MSigDB-512DA8?style=for-the-badge)
+![ComplexHeatmap](https://img.shields.io/badge/ComplexHeatmap_·_ggplot2-5533B0?style=for-the-badge)
+![Multi-omics](https://img.shields.io/badge/Multi--omic_Integration-5E35B1?style=for-the-badge)
+![Stats](https://img.shields.io/badge/Statistical_Methods_Development-673AB7?style=for-the-badge)
+![Genomics](https://img.shields.io/badge/Cancer_Genomics-7E57C2?style=for-the-badge)
 
 </div>
 
-<br/>
+### 🧾 Clinical & Translational Data Analysis
 
-## 🎓 &nbsp; Teaching, Mentoring & Service
+> Beyond the bench: I analyze **patient-level clinical, pathologic, and trial-correlative data** —
+> the evidence layer that connects a mechanism to a treatment decision.
+
+<div align="center">
+
+![Outcomes](https://img.shields.io/badge/Treatment_Response_&_Survival_Analysis-B71C1C?style=for-the-badge)
+![Cohorts](https://img.shields.io/badge/Patient_Cohort_Multi--Omics-C62828?style=for-the-badge)
+![Clinpath](https://img.shields.io/badge/Clinicopathologic_Correlation-D32F2F?style=for-the-badge)
+![Predictive](https://img.shields.io/badge/Predictive_Biomarker_Discovery-E53935?style=for-the-badge)
+![Correlative](https://img.shields.io/badge/Trial_Correlative_Science-880E4F?style=for-the-badge)
+![CDx](https://img.shields.io/badge/Companion_Diagnostic_Development-AD1457?style=for-the-badge)
+![Heterogeneity](https://img.shields.io/badge/Tumor_Heterogeneity_&_Precision_Oncology-C2185B?style=for-the-badge)
+![Registry](https://img.shields.io/badge/Diagnostic_Classification_&_Staging-D81B60?style=for-the-badge)
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 👥 Mentoring
+**Treatment response & patient survival**
+Analysis of *CRBN*/*CUL4A*/*DDB1* expression predicting **response to immunomodulatory drugs and
+survival** in a multiple myeloma patient cohort.
+<sub>*J Clin Med* 2021 · with Institute of Hematology and Transfusion Medicine</sub>
 
-- Research supervision of technicians **Tuyet Nguyen** (2024–) and **Jimmy Le** (2026–) at Dana-Farber — experimental design, in vivo disease modeling, multi-omic workflows
-- Mentorship of visiting graduate students **Nick Wehrwein** (2024–25) and **Sabrina Hammerle** (2025–26), Heidelberg University
-- Teaching Assistant in **immunology, histology, embryology & cytophysiology** for MD and DMD students — Medical University of Warsaw & Lazarski University (2017–2023)
+**Patient-cohort multi-omic analysis**
+Multi-omic characterization of **249 treatment-naive *MYD88* L265P Waldenström patients**,
+defining disease evolution and molecular subtypes.
+<sub>Submitted to *Nature Communications* · with the Bing Center / Treon Lab</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 📝 Peer Review & Memberships
+**Trial-correlative & companion diagnostics**
+Development of **tissue-based PIM kinase expression assays** supporting the translational and
+clinical development of dapolsertib (MEN1703).
+<sub>Directly upstream of Phase II NCT06534437</sub>
 
-**Ad hoc reviewer** (2021–present) — **31 manuscripts** across **21 international journals**, 41 review reports.
-
-<sub>Including *Cancer Research*, *Cancer Research Communications*, *Scientific Reports*, *Clinical and Translational Medicine*, *Signal Transduction and Targeted Therapy*, *Frontiers in Immunology*, *Cell Biology and Toxicology*, *Cancers*, *Biomedicines*.</sub>
-
-- **AACR** — Associate Member (2024–)
-- **Polish Society of Hematology and Transfusion Medicine** — Member (2019–)
+**Clinicopathologic correlation**
+Molecular signatures correlated with **tumor invasion, morphology, and clinical behavior** across
+archival FFPE patient cohorts — pituitary, prostate, endometrial, and CNS tumors.
+<sub>*Pituitary* 2017 · *Endocrine* 2019, 2025 · *Histochem Cell Biol* 2021</sub>
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<sub>Framing paper: **Tomasik B§, Garbicz F§** et al. *Heterogeneity in precision oncology.*
+**Camb Prism Precis Med** (2024) — on why molecular heterogeneity complicates biomarker-driven
+treatment assignment.</sub>
+
+</div>
 
 <br/>
 
@@ -391,9 +393,6 @@ Qin X, Presser A, Johnson L, …, **Garbicz F**, …, Sarosiek KA.
 [![Email](https://img.shields.io/badge/filipa__garbicz@dfci.harvard.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipa_garbicz@dfci.harvard.edu)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-garbicz/)
 [![X](https://img.shields.io/badge/Follow_@FilipGarbicz-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/FilipGarbicz)
-
-<sub>Dana-Farber Cancer Institute · 450 Brookline Avenue, Boston, MA 02215</sub>
-<sub>🗣️ Polish (native) · English (C2) · German (C1)</sub>
 
 <br/>
 
