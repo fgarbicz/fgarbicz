@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Filip%20Garbicz%2C%20MD%2C%20PhD&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Physician-Scientist%20%C2%B7%20Hematology-Oncology%20%C2%B7%20Pathology&descAlignY=54&descSize=18&animation=fadeIn" width="100%" alt="Filip Garbicz, MD, PhD — Physician-Scientist" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Filip%20Garbicz%2C%20MD%2C%20PhD&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Physician-Scientist%20%C2%B7%20Hematologic%20Malignancies%20%26%20Molecular%20Oncology&descAlignY=54&descSize=16&animation=fadeIn" width="100%" alt="Filip Garbicz, MD, PhD — Physician-Scientist" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3600&pause=900&color=3AAFA9&center=true&vCenter=true&width=820&lines=Turning+cancer+biology+into+first-in-human+trials;Precision+therapeutics+for+hematologic+malignancies;Postdoc+%40+Dana-Farber+%C2%B7+Harvard+Medical+School;2+preclinical+programs+%E2%86%92+2+active+clinical+trials" alt="Turning cancer biology into first-in-human trials" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3600&pause=900&color=3AAFA9&center=true&vCenter=true&width=830&lines=Physician+first.+Scientist+always.;Clinical+questions+in+%E2%80%94+first-in-human+trials+out;2+preclinical+programs+%E2%86%92+2+active+clinical+trials;Hematologic+malignancies+%C2%B7+Molecular+oncology+%C2%B7+Pathology" alt="Physician first. Scientist always." />
 
 <br/>
 
-**Postdoctoral Research Fellow** @ [Dana-Farber Cancer Institute](https://www.dana-farber.org)
-**Research Fellow** @ Harvard Medical School &nbsp;·&nbsp; **Research Affiliate** @ Broad Institute of MIT and Harvard
+**Research Fellow** · [Dana-Farber Cancer Institute](https://www.dana-farber.org) — Carrasco Laboratory, Dept. of Pathology
+**Research Fellow in Pathology** · Harvard Medical School &nbsp;·&nbsp; **Research Affiliate** · Broad Institute of MIT and Harvard
 
 <br/>
 
@@ -18,86 +18,112 @@
 [![X](https://img.shields.io/badge/@FilipGarbicz-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/FilipGarbicz)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipa_garbicz@dfci.harvard.edu)
 
+<br/>
+
+![Publications](https://img.shields.io/badge/Peer--reviewed_publications-23-0F4C81?style=for-the-badge)
+![Trials](https://img.shields.io/badge/Clinical_trials_enabled-2-B71C1C?style=for-the-badge)
+![Peer review](https://img.shields.io/badge/Manuscripts_reviewed-31_across_21_journals-4527A0?style=for-the-badge)
+![License](https://img.shields.io/badge/Polish_Medical_License-2019-00695C?style=for-the-badge)
+
 </div>
 
 <br/>
 
-## 👨‍⚕️ &nbsp; About Me
+## 🩺 &nbsp; About Me
 
 ```yaml
-name:        Filip Garbicz, MD, PhD
-role:        Physician-Scientist — Translational Cancer Research
-affiliation: Dana-Farber Cancer Institute · Harvard Medical School · Broad Institute
-focus:       [precision therapeutics, preclinical disease modeling, cancer genomics]
-diseases:    [Waldenström's macroglobulinemia, DLBCL, multiple myeloma, ovarian cancer]
-mission:     "Care for the science that reaches patients."
+name:         Filip Garbicz, MD, PhD
+role:         Physician-Scientist — Hematologic Malignancies & Molecular Oncology
+affiliation:  Dana-Farber Cancer Institute · Harvard Medical School · Broad Institute
+clinical:     [MD 2017, Intern 2019, PhD 2026]
+diseases:     [Waldenström macroglobulinemia, DLBCL, multiple myeloma,
+               Hodgkin lymphoma, ovarian, liver & gastric cancer]
+approach:     [multi-omic profiling, computational biology, in vivo modeling,
+               RNA nanoparticle delivery]
+mission:      "Care for the science that reaches patients."
 ```
 
-I develop **precision therapeutics and preclinical disease-modeling platforms** for hematologic
-malignancies — translating fundamental cancer biology into clinical trials that improve outcomes
-for patients with currently incurable cancers.
+I am a **physician** trained in internal medicine who now works at the interface of **pathology,
+hematology-oncology, and molecular medicine**. My research asks clinical questions — why patients
+relapse, which tumors resist therapy, whom to treat with what — and answers them with preclinical
+models, patient-derived tissue, and multi-omic analysis.
+
+The measure I care about is whether the work reaches patients: **two of my preclinical programs
+have opened as clinical trials.**
 
 <br/>
 
-## 🧬 &nbsp; From Bench to Bedside
+## 🏥 &nbsp; From Bench to Bedside
 
-> Two of my preclinical programs have opened as investigator-initiated clinical trials.
+> Preclinical mechanism → therapeutic rationale → investigator-initiated trial.
 
 <div align="center">
 
-| 🔬 Preclinical Program | 💡 Rationale | 🏥 Resulting Trial |
+| 🔬 Preclinical Program | 💡 Mechanistic Rationale | 🧾 Resulting Trial |
 | :--- | :--- | :--- |
-| **PIM kinase biology**<br/>DLBCL & multiple myeloma | Targets the MYC transcriptional program; augments efficacy of anti-CD20 antibodies | [![NCT06534437](https://img.shields.io/badge/NCT06534437-Phase_II-0F4C81?style=flat-square)](https://clinicaltrials.gov/study/NCT06534437)<br/>Dapolsertib + glofitamab<br/>*r/r aggressive B-cell NHL* |
-| **BCL-XL apoptotic<br/>dependencies** | Targeted degradation of BCL-XL in platinum-resistant disease | [![NCT06964009](https://img.shields.io/badge/NCT06964009-Phase_Ib-0F4C81?style=flat-square)](https://clinicaltrials.gov/study/NCT06964009)<br/>DT2216 + paclitaxel<br/>*Platinum-resistant ovarian cancer*<br/>Dana-Farber-sponsored |
+| **PIM kinase biology**<br/>DLBCL & multiple myeloma<br/><sub>*Cancer Res* 2021</sub> | Pan-PIM inhibition targets the MYC transcriptional program and augments the efficacy of anti-CD20 antibodies; tissue-based PIM expression assays supported translational development of **dapolsertib (MEN1703)** | [![NCT06534437](https://img.shields.io/badge/NCT06534437-Phase_II-0F4C81?style=flat-square)](https://clinicaltrials.gov/study/NCT06534437)<br/>Pan-PIM inhibitor + CD20/CD3<br/>bispecific antibody<br/>*r/r aggressive B-cell NHL*<br/><sub>International</sub> |
+| **Paclitaxel-induced apoptotic<br/>convergence**<br/><sub>*bioRxiv* 2025.06.24.661170</sub> | Mitotic arrest converges apoptotic dependencies onto BCL-XL, which can be safely exploited by **targeted BCL-XL degradation** to overcome chemoresistance | [![NCT06964009](https://img.shields.io/badge/NCT06964009-Phase_Ib-0F4C81?style=flat-square)](https://clinicaltrials.gov/study/NCT06964009)<br/>DT2216 (BCL-XL degrader)<br/>+ paclitaxel<br/>*Platinum-resistant ovarian cancer*<br/><sub>Dana-Farber–sponsored</sub> |
 
 </div>
 
 <br/>
 
-## 🧪 &nbsp; Current Programs
+## 🧪 &nbsp; Current Research Programs
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🩸 Waldenström's Macroglobulinemia
+### 🩸 Waldenström Macroglobulinemia
 
-Building the **first generation of *MYD88 L265P* / chromosome-6q-deletion mouse models** to dissect
-the cancer cell-intrinsic and microenvironmental drivers of mature B-cell malignancy.
+Modeling ***MYD88* L265P** and **chromosome 6q deletion** in murine B cells to build the first
+mouse models of WM — defining early lymphomagenesis and the putative cell of origin, toward
+next-generation diagnostics and therapeutics.
 
-`IWMF Robert A. Kyle Career Development Award`
+<sub>Mentor: **Dr. Ruben Carrasco** · with **Dr. Steven Treon's Lab** & the **Bing Center for
+Waldenström's Macroglobulinemia**</sub>
+
+`IWMF Robert A. Kyle Career Development Award` `NIH R01CA273123`
 
 </td>
 <td width="50%" valign="top">
 
-### 💊 RNA Nanoparticle Therapeutics
+### 🧬 BCL9 & Wnt-Driven Carcinogenesis
 
-Collaboration with the **Langer Lab (MIT)** developing RNA-based therapeutic platforms for
-liver and gastric cancer.
+Dissecting how **BCL9 drives multi-organ carcinogenesis** through tissue-specific assembly of the
+Wnt enhanceosome — extending earlier work on β-catenin/BCL9 complex inhibition.
 
-`MIT · Koch Institute collaboration`
+<sub>Presented at DFCI Cancer Biology–Pathology Joint Retreat (oral) and HMS Pathology Research
+Retreat (**Poster Award**, 2026)</sub>
+
+`Wnt signaling` `Solid tumors`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧮 Computational Cancer Genomics
+### 💊 RNA Nanoparticle Therapeutics
 
-Multi-omic analyses with the **Broad Institute of MIT and Harvard** — integrating genomic,
-transcriptomic and single-cell data to find actionable dependencies.
+Leading translational work in **liver and gastric cancer** — identifying metabolic drivers of
+disease and developing RNA nanoparticle–based delivery platforms.
 
-`Broad Institute Research Affiliate`
+<sub>In collaboration with **Dr. Robert Langer's Lab, MIT**</sub>
+
+`Critical & emerging technology (NSTC)`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔭 Apoptotic & Kinase Dependencies
+### 🧮 Computational & Multi-Omic Oncology
 
-Mechanistic dissection of survival signaling in B-cell malignancies, feeding directly into
-biomarker-guided trial design.
+Multi-omic profiling of B-cell malignancies with the **Broad Institute** — including multi-omic
+analysis of **249 treatment-naive *MYD88* L265P WM patients**, and new statistical methods for
+omics-based cancer data.
 
-`Bench-to-bedside pipeline`
+<sub>Cross-disciplinary: laboratory · clinical · computational</sub>
+
+`scRNA-seq` `CyTOF` `Cancer genomics`
 
 </td>
 </tr>
@@ -105,15 +131,16 @@ biomarker-guided trial design.
 
 <br/>
 
-## 🎓 &nbsp; Background
+## 🎓 &nbsp; Clinical Training & Credentials
 
 <div align="center">
 
-| | | |
-| :--- | :--- | :--- |
-| 🎓 **MD** | 2017 | Medical University of Warsaw |
-| 🏥 **Postgraduate Internship** | — | Czerniakowski Hospital, Warsaw |
-| 🔬 **PhD** | 2026 | Medical University of Warsaw & Institute of Hematology and Transfusion Medicine<br/>*Kinase signaling in blood cancers and the tumor microenvironment* |
+| | Training | Institution | Years |
+| :---: | :--- | :--- | :---: |
+| 🪪 | **Full Polish Medical License** | Republic of Poland | 2019 |
+| 🏥 | **Postgraduate Medical Internship**<br/><sub>Completed across 10 clinical specialties</sub> | Czerniakowski Hospital, Warsaw | 2018–2019 |
+| 🌍 | **Visiting Medical Intern**<br/><sub>Internal Medicine & Gastroenterology · GI endoscopy & EUS · multidisciplinary tumor boards</sub> | Park-Klinik Weißensee<br/>(Charité-affiliated), Berlin | 2019 |
+| 🫀 | **ACLS** · Responsible Conduct of Research | — | — |
 
 </div>
 
@@ -126,49 +153,106 @@ biomarker-guided trial design.
 
 </div>
 
-<br/>
-
-## 🏆 &nbsp; Selected Recognition
+### 📖 Education
 
 <div align="center">
 
-| Award | Organization | Year |
-| :--- | :--- | :---: |
-| 🥇 **Robert A. Kyle Career Development Award** | International Waldenström's Macroglobulinemia Foundation | 2024 |
-| 🌟 **Young Investigator Award** | International Workshop on Waldenström's Macroglobulinemia | 2024 |
-| 📜 **Abstract Achievement Award** | ASH Annual Meeting | 2022 |
-| 🎖️ **Scholarship for Outstanding Young Scientists** | Polish Ministry of Science & Higher Education | 2021 |
+| | Degree | Institution | Year |
+| :---: | :--- | :--- | :---: |
+| 🔬 | **Ph.D., Medical Sciences**<br/><sub>*"Tumor cell-intrinsic and microenvironmental functions of PIM kinases in multiple myeloma"*<br/>Defended Mar 2026 · Advisor: Przemysław Juszczyński, MD, PhD</sub> | Postgraduate School of Molecular Medicine,<br/>Medical University of Warsaw | 2026 |
+| 🎓 | **M.D.** | First Faculty of Medicine,<br/>Medical University of Warsaw | 2017 |
 
 </div>
+
+<sub>PhD research conducted at the **Institute of Hematology and Transfusion Medicine**, Warsaw (2017–2023).</sub>
 
 <br/>
 
 ## 📚 &nbsp; Selected Publications
 
+<div align="center">
+
+**23 peer-reviewed articles** — 1 first-author · 2 co-first-author · 1 co-second-author
+<sub>§ = equal contribution · name in **bold**</sub>
+
+</div>
+
 <details open>
-<summary><b>Click to expand / collapse</b></summary>
+<summary><b>▸ Selected peer-reviewed articles</b></summary>
 
 <br/>
 
-**Garbicz F**, …, Misiewicz-Krzeminska I. (2024).
-*Characterization of multiple myeloma bone-marrow endothelial cells and progenitors.*
-**Int J Mol Sci.** 25(22):12047. &nbsp;`first author`
+**Garbicz F**, Kaszkowiak M, Dudkiewicz-Garbicz J, Dorfman DM, …, Carrasco RD, Misiewicz-Krzeminska I. (2024).
+*Characterization and experimental use of multiple myeloma bone marrow endothelial cells and progenitors.*
+**Int J Mol Sci**, 25(22):12047. &nbsp;`First author`
 
-Szydłowski M, **Garbicz F**§, Jabłońska E§, …, Juszczyński P. (2021).
-*Inhibition of PIM kinases in DLBCL targets the MYC transcriptional program and augments efficacy of anti-CD20 antibodies.*
-**Cancer Research.** 81(23):6029–6043. &nbsp;`basis for NCT06534437`
+Tomasik B§, **Garbicz F**§, Braun M, Bieńkowski M, Jassem J. (2024).
+*Heterogeneity in precision oncology.*
+**Camb Prism Precis Med**, 2:e2. &nbsp;`Co-first author`
 
-Du T, …, **Garbicz F**, …, Anderson KC. (2026).
+**Garbicz F**§, Mehlich D§, Rak B, …, Wlodarski PK. (2017).
+*Increased expression of the microRNA 106b~25 cluster and its host gene MCM7 in corticotroph pituitary adenomas is associated with tumor invasion and Crooke's cell morphology.*
+**Pituitary**, 20(4):450–463. &nbsp;`Co-first author`
+
+Szydłowski M, **Garbicz F**§, Jabłońska E§, Górniak P, …, Juszczyński P. (2021).
+*Inhibition of PIM kinases in DLBCL targets MYC transcriptional program and augments the efficacy of anti-CD20 antibodies.*
+**Cancer Res**, 81(23):6029–6043. &nbsp;`Co-second author` &nbsp;`Basis for Phase II NCT06534437`
+
+Du T, Fang T, Pillai SC, …, **Garbicz F**, Carrasco RD, …, Anderson KC. (2026).
 *Proteasome subunit PSMD1 is a key therapeutic target in multiple myeloma.*
-**Blood.**
+**Blood**, 147(20):2344–2357.
 
-Chong SJF, …, **Garbicz F**, …, Davids MS. (2026).
+Gutierrez C, Kwok M, Ruthen N, …, **Garbicz F**, Lee M, Wu C. (2026).
+*Mutant ribosomal protein RPS15 drives B-cell malignancy through oxidative stress and genomic instability.*
+**Nature Communications**.
+
+Chong SJF, Valentin R, Wang J, …, **Garbicz F**, …, Davids MS. (2026).
 *CD47 blockade-driven necroptosis complements BCL-2 inhibition-driven apoptosis in lymphoid malignancies.*
-**J Hematol Oncol.** 19(1):11.
+**J Hematol Oncol**, 19(1):11.
 
-Gutierrez C, …, **Garbicz F**, …, Wu C. (2026).
-*Mutant ribosomal protein RPS15 drives B-cell malignancy.*
-**Nature Communications.**
+Szydłowski M, Kurtz E, **Garbicz F**, …, Lech-Marańda E, Juszczyński P. (2026).
+*PIM kinase inhibition attenuates pro-tumoral and immunosuppressive functions of macrophages in classic Hodgkin lymphoma.*
+**Cell Death Dis**, 17(1):136.
+
+Tanton H, Sewastianik T, Seo H-S, …, **Garbicz F**, …, Carrasco RD. (2022).
+*A novel β-catenin/BCL9 complex inhibitor blocks oncogenic Wnt signaling and disrupts cholesterol homeostasis in colorectal cancer.*
+**Sci Adv**, 8(17):eabm3108.
+
+</details>
+
+<details>
+<summary><b>▸ Manuscripts under review & preprints</b></summary>
+
+<br/>
+
+Hunter Z, Guerrera ML, Tsakmaklis N, …, **Garbicz F**, Carrasco R, …, Treon S.
+*The evolution and subtypes of Waldenström macroglobulinemia: multi-omic analysis of 249 treatment-naive MYD88 L265P patients.*
+Submitted to **Nature Communications** (2025).
+
+Qin X, Presser A, Johnson L, …, **Garbicz F**, …, Sarosiek KA.
+*Paclitaxel-induced mitotic arrest results in a convergence of apoptotic dependencies safely exploited by BCL-XL degradation to overcome cancer chemoresistance.*
+**bioRxiv** 2025.06.24.661170. &nbsp;`Preclinical basis for Phase Ib NCT06964009`
+
+</details>
+
+<details>
+<summary><b>▸ Invited & selected conference presentations</b></summary>
+
+<br/>
+
+**Invited**
+
+- **Garbicz F.** (2025). *"Navigating the Deep: Can Mouse Models Map the Biology of Waldenström's Macroglobulinemia?"* — IWMF Educational Forum, Ponte Vedra, FL.
+- **Garbicz F.** (2024). *"Modeling MYD88 L265P Mutation and Chromosome 6q Deletion in Murine B Cells."* — Hematologic Neoplasia & Immunologic Therapies Seminar, Dana-Farber Cancer Institute.
+
+**Selected**
+
+- (2026) *Multi-organ carcinogenesis driven by BCL9 via tissue-dependent Wnt signaling* — DFCI Cancer Biology–Pathology Joint Retreat. `Oral`
+- (2026) *BCL9 drives multi-organ carcinogenesis through tissue-specific assembly of the Wnt enhanceosome* — HMS Pathology Research Retreat. `Poster Award`
+- (2025) *Modeling 6q deletion and MYD88 L265P-driven B-cell lymphomas in mice* — AACR Annual Meeting, Chicago. `Poster`
+- (2023) *Transcriptomic features influencing anti-myeloma drug resistance* — 65th ASH Annual Meeting, San Diego. `Poster`
+- (2022) *Super-enhancer-driven PIM kinase upregulation in multiple myeloma, efficiently targeted by MEN1703* — 64th ASH Annual Meeting, New Orleans. `ASH Abstract Achievement Award`
+- (2020) *PIM kinase inhibition decreases proangiogenic properties of myeloma cells* — 62nd ASH Annual Meeting. `Poster`
 
 </details>
 
@@ -185,33 +269,102 @@ Gutierrez C, …, **Garbicz F**, …, Wu C. (2026).
 
 <div align="center">
 
-**🧫 Molecular & Cellular**
+**🧫 Molecular, Cellular & Translational**
 
 ![RNA-seq](https://img.shields.io/badge/RNA--seq_/_scRNA--seq-00695C?style=for-the-badge)
 ![CyTOF](https://img.shields.io/badge/CyTOF_/_CITE--seq-00796B?style=for-the-badge)
-![Flow Cytometry](https://img.shields.io/badge/Flow_Cytometry_&_Sorting-00897B?style=for-the-badge)
+![Flow](https://img.shields.io/badge/Flow_Cytometry_&_Sorting-00897B?style=for-the-badge)
 ![CRISPR](https://img.shields.io/badge/CRISPR_Gene_Editing-009688?style=for-the-badge)
-![Genetic Engineering](https://img.shields.io/badge/Genetic_Engineering-26A69A?style=for-the-badge)
-![RNA Nanoparticles](https://img.shields.io/badge/RNA_Nanoparticle_Design-4DB6AC?style=for-the-badge)
+![Patient samples](https://img.shields.io/badge/Patient--Derived_Bone_Marrow-26A69A?style=for-the-badge)
+![RNA NP](https://img.shields.io/badge/RNA_Nanoparticle_Delivery-4DB6AC?style=for-the-badge)
 
-**🐁 In Vivo Modeling**
+**🐁 In Vivo & Pathology**
 
 ![GEMM](https://img.shields.io/badge/Genetically_Engineered_Mouse_Models-0D47A1?style=for-the-badge)
 ![Xenograft](https://img.shields.io/badge/Xenograft_Models-1565C0?style=for-the-badge)
-![Conditional KO](https://img.shields.io/badge/Conditional_Knockout_/_Knock--in-1976D2?style=for-the-badge)
+![Conditional](https://img.shields.io/badge/Conditional_Knockout_/_Knock--in-1976D2?style=for-the-badge)
 ![Histopathology](https://img.shields.io/badge/Histopathology_&_IHC-1E88E5?style=for-the-badge)
-![Primary Culture](https://img.shields.io/badge/Primary_BM_Cell_Culture-2196F3?style=for-the-badge)
-![Biomarker Assays](https://img.shields.io/badge/Tissue_Biomarker_Assays-42A5F5?style=for-the-badge)
+![Biomarker](https://img.shields.io/badge/Tissue_Biomarker_Assay_Development-2196F3?style=for-the-badge)
+![Companion Dx](https://img.shields.io/badge/Companion_Diagnostics-42A5F5?style=for-the-badge)
+
+**🧬 Nucleic Acid & Epigenomic Profiling**
+
+![miRNA](https://img.shields.io/badge/microRNA_/_ncRNA_Profiling-006064?style=for-the-badge)
+![FFPE](https://img.shields.io/badge/FFPE_&_Archival_Tissue_Analysis-00838F?style=for-the-badge)
+![Fusions](https://img.shields.io/badge/Gene_Fusion_Detection-0097A7?style=for-the-badge)
+![Enhancer](https://img.shields.io/badge/Super--Enhancer_Analysis-00ACC1?style=for-the-badge)
+![Epigenomics](https://img.shields.io/badge/Epigenomic_Profiling-00BCD4?style=for-the-badge)
+![Targeted seq](https://img.shields.io/badge/Targeted_Driver--Gene_Sequencing-26C6DA?style=for-the-badge)
 
 **💻 Computational**
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics_Pipelines-4527A0?style=for-the-badge)
-![Multi-omics](https://img.shields.io/badge/Multi--omic_Integration-512DA8?style=for-the-badge)
-![Statistics](https://img.shields.io/badge/Statistical_Modeling-5E35B1?style=for-the-badge)
-![Cancer Genomics](https://img.shields.io/badge/Cancer_Genomics-673AB7?style=for-the-badge)
-![Companion Dx](https://img.shields.io/badge/Companion_Diagnostics-7E57C2?style=for-the-badge)
+![Quarto](https://img.shields.io/badge/Quarto-39729E?style=for-the-badge&logo=quarto&logoColor=white)
+![Seurat](https://img.shields.io/badge/Seurat_·_Harmony_·_LIGER-4527A0?style=for-the-badge)
+![DESeq2](https://img.shields.io/badge/DESeq2-4A2FA8?style=for-the-badge)
+![GSEA](https://img.shields.io/badge/fgsea_·_clusterProfiler_·_MSigDB-512DA8?style=for-the-badge)
+![ComplexHeatmap](https://img.shields.io/badge/ComplexHeatmap_·_ggplot2-5533B0?style=for-the-badge)
+![Multi-omics](https://img.shields.io/badge/Multi--omic_Integration-5E35B1?style=for-the-badge)
+![Stats](https://img.shields.io/badge/Statistical_Methods_Development-673AB7?style=for-the-badge)
+![Genomics](https://img.shields.io/badge/Cancer_Genomics-7E57C2?style=for-the-badge)
+
+</div>
+
+### 🧾 Clinical & Translational Data Analysis
+
+> Beyond the bench: I analyze **patient-level clinical, pathologic, and trial-correlative data** —
+> the evidence layer that connects a mechanism to a treatment decision.
+
+<div align="center">
+
+![Outcomes](https://img.shields.io/badge/Treatment_Response_&_Survival_Analysis-B71C1C?style=for-the-badge)
+![Cohorts](https://img.shields.io/badge/Patient_Cohort_Multi--Omics-C62828?style=for-the-badge)
+![Clinpath](https://img.shields.io/badge/Clinicopathologic_Correlation-D32F2F?style=for-the-badge)
+![Predictive](https://img.shields.io/badge/Predictive_Biomarker_Discovery-E53935?style=for-the-badge)
+![Correlative](https://img.shields.io/badge/Trial_Correlative_Science-880E4F?style=for-the-badge)
+![CDx](https://img.shields.io/badge/Companion_Diagnostic_Development-AD1457?style=for-the-badge)
+![Heterogeneity](https://img.shields.io/badge/Tumor_Heterogeneity_&_Precision_Oncology-C2185B?style=for-the-badge)
+![Registry](https://img.shields.io/badge/Diagnostic_Classification_&_Staging-D81B60?style=for-the-badge)
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Treatment response & patient survival**
+Analysis of *CRBN*/*CUL4A*/*DDB1* expression predicting **response to immunomodulatory drugs and
+survival** in a multiple myeloma patient cohort.
+<sub>*J Clin Med* 2021 · with Institute of Hematology and Transfusion Medicine</sub>
+
+**Patient-cohort multi-omic analysis**
+Multi-omic characterization of **249 treatment-naive *MYD88* L265P Waldenström patients**,
+defining disease evolution and molecular subtypes.
+<sub>Submitted to *Nature Communications* · with the Bing Center / Treon Lab</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**Trial-correlative & companion diagnostics**
+Development of **tissue-based PIM kinase expression assays** supporting the translational and
+clinical development of dapolsertib (MEN1703).
+<sub>Directly upstream of Phase II NCT06534437</sub>
+
+**Clinicopathologic correlation**
+Molecular signatures correlated with **tumor invasion, morphology, and clinical behavior** across
+archival FFPE patient cohorts — pituitary, prostate, endometrial, and CNS tumors.
+<sub>*Pituitary* 2017 · *Endocrine* 2019, 2025 · *Histochem Cell Biol* 2021</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>Framing paper: **Tomasik B§, Garbicz F§** et al. *Heterogeneity in precision oncology.*
+**Camb Prism Precis Med** (2024) — on why molecular heterogeneity complicates biomarker-driven
+treatment assignment.</sub>
 
 </div>
 
@@ -226,7 +379,8 @@ Gutierrez C, …, **Garbicz F**, …, Wu C. (2026).
 | 🧩 | **Multi-omic approaches to cancer drug resistance** |
 | 🐁 | **Preclinical disease modeling** for hematologic malignancies and solid tumors |
 | 🤖 | **Big data and machine learning** in translational oncology |
-| 🧬 | **RNA-based therapeutic platforms** |
+| 🧬 | **RNA-based therapeutic platforms** and targeted delivery |
+| 🧾 | **Biomarker-guided and companion-diagnostic trial design** |
 
 </div>
 
@@ -242,7 +396,7 @@ Gutierrez C, …, **Garbicz F**, …, Wu C. (2026).
 
 <br/>
 
-***"I care for the science that reaches patients."***
+***"Care for the science that reaches patients."***
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=140&section=footer" width="100%" alt="" />
 
