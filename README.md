@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Filip%20Garbicz%2C%20MD%2C%20PhD&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Physician-Scientist%20%C2%B7%20Hematologic%20Malignancies%20%26%20Molecular%20Oncology&descAlignY=54&descSize=16&animation=fadeIn" width="100%" alt="Filip Garbicz, MD, PhD — Physician-Scientist" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Filip%20Garbicz%2C%20MD%2C%20PhD&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Physician-Scientist%20%C2%B7%20Hematologic%20Malignancies%20and%20Molecular%20Oncology&descAlignY=54&descSize=16&animation=fadeIn" width="100%" alt="Filip Garbicz, MD, PhD — Physician-Scientist" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3600&pause=900&color=3AAFA9&center=true&vCenter=true&width=830&lines=Physician+first.+Scientist+always.;Clinical+questions+in+%E2%80%94+first-in-human+trials+out;2+preclinical+programs+%E2%86%92+2+active+clinical+trials;Hematologic+malignancies+%C2%B7+Molecular+oncology+%C2%B7+Pathology" alt="Physician first. Scientist always." />
 
