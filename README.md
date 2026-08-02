@@ -20,13 +20,6 @@
 [![X](https://img.shields.io/badge/%40FilipGarbicz-12263A?style=flat-square&logo=x&logoColor=white)](https://twitter.com/FilipGarbicz)
 [![Email](https://img.shields.io/badge/Email-12263A?style=flat-square)](mailto:filipa_garbicz@dfci.harvard.edu)
 
-<br/>
-
-![Publications](https://img.shields.io/badge/Peer--reviewed%20publications-23-0F6E6E?style=flat-square&labelColor=12263A)
-![Trials](https://img.shields.io/badge/Clinical%20trials%20enabled-2-0F6E6E?style=flat-square&labelColor=12263A)
-![Peer review](https://img.shields.io/badge/Manuscripts%20reviewed-31%20across%2021%20journals-0F6E6E?style=flat-square&labelColor=12263A)
-![License](https://img.shields.io/badge/Polish%20Medical%20License-2019-0F6E6E?style=flat-square&labelColor=12263A)
-
 </div>
 
 <br/>
