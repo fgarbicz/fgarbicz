@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Filip%20Garbicz%2C%20MD%2C%20PhD&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Physician-Scientist%20%C2%B7%20Hematologic%20Malignancies%20and%20Molecular%20Oncology&descAlignY=54&descSize=16&animation=fadeIn" width="100%" alt="Filip Garbicz, MD, PhD — Physician-Scientist" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3600&pause=900&color=3AAFA9&center=true&vCenter=true&width=830&lines=Physician+first.+Scientist+always.;Clinical+questions+in+%E2%80%94+first-in-human+trials+out;2+preclinical+programs+%E2%86%92+2+active+clinical+trials;Hematologic+malignancies+%C2%B7+Molecular+oncology+%C2%B7+Pathology" alt="Physician first. Scientist always." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-light.svg" alt="Filip Garbicz, MD, PhD — Physician-Scientist · Hematologic Malignancies and Molecular Oncology" width="100%">
+</picture>
 
 <br/>
 
@@ -11,19 +13,12 @@
 
 <br/>
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=rIIcAVUAAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-5548-1564)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-garbicz/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Filip-Garbicz)
-[![X](https://img.shields.io/badge/@FilipGarbicz-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/FilipGarbicz)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipa_garbicz@dfci.harvard.edu)
-
-<br/>
-
-![Publications](https://img.shields.io/badge/Peer--reviewed_publications-23-0F4C81?style=for-the-badge)
-![Trials](https://img.shields.io/badge/Clinical_trials_enabled-2-B71C1C?style=for-the-badge)
-![Peer review](https://img.shields.io/badge/Manuscripts_reviewed-31_across_21_journals-4527A0?style=for-the-badge)
-![License](https://img.shields.io/badge/Polish_Medical_License-2019-00695C?style=for-the-badge)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-12263A?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=rIIcAVUAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-12263A?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-5548-1564)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-12263A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-garbicz/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-12263A?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Filip-Garbicz)
+[![X](https://img.shields.io/badge/%40FilipGarbicz-12263A?style=flat-square&logo=x&logoColor=white)](https://twitter.com/FilipGarbicz)
+[![Email](https://img.shields.io/badge/Email-12263A?style=flat-square)](mailto:filipa_garbicz@dfci.harvard.edu)
 
 </div>
 
@@ -396,9 +391,9 @@ treatment assignment.</sub>
 
 <br/>
 
-***"Care for the science that reaches patients."***
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=140&section=footer" width="100%" alt="" />
+***"Care for the science that reaches patients."***
 
 </div>
 
